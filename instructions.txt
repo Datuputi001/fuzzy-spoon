@@ -89,3 +89,6 @@ Here are the instructions
  pr_qa_datarefresh.TN_ORDER_RETURN_LOG                
  pr_qa_datarefresh.TN_ORDER_RETURN_LOG_W              
  pr_qa_datarefresh.TN_ORDER_RETURN_STATUS 
+ 
+ Please refer to the website for more instructions.
+ 
